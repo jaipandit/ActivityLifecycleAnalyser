@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityLifeAnalyser</string>
+    <string name="state_log">State [%1$s] Callback [%2$s]</string>
+</resources>
